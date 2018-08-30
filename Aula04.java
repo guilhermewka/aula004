@@ -10,7 +10,7 @@ public class Aula04 {
         System.out.println("diite um numero entre 1 e 12");
         mes = ler.nextInt();
        
-        for (int i = mes; i <= 12; i++,mes++) {
+        
             
             switch  (mes){
             case 1:
@@ -59,4 +59,4 @@ public class Aula04 {
         
     }
     
-}
+
